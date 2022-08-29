@@ -1,0 +1,12 @@
+1.Spin down sample tubes to make sure there aren't any bubbles on lid
+2. Vortex tubes at top speed for two mins
+3. Tubes are bubbling intensely after vortexing
+4. To tamp down bubbles, centrifuge in the mini-centrifuge for 1-2 mins
+5. Add the appropriate amount (volume) of proteinase K and pro K buffer
+  -Proteinase K is stored in the -20 in the Putnam lab zymo enzymes box
+6. For tubes with 300 microliters add:
+   -30 microliters of Pro K buffer
+   -15 microliters of Proteinase K
+7. Vortex tubes and spin down 
+8. Label new 1.5 mL sample tubes with sample ID
+9. Remove the liquid from the sample tubes and place into new tubes (helps to set pippette at 400mL
