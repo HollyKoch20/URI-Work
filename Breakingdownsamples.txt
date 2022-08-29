@@ -1,0 +1,12 @@
+1. Obtain mortar/pestle, scoopula, tweezers, liquid N, samples dried in silica or frozEN, DNA storage tubes with caps, DNA/RNA Shield, ethanol, RNase
+2. Wipe down work area and all materils with ethanol and RNase
+3. Place a sample in one mortar using tweezers
+4. Pour liquid N in a seperate mortar for pouring
+5. Pour LN directly on sample
+6. Use scoopula or pestle to break down sample
+7. After LN2 has evaporated, use the pestle to grind down the sample
+8. Place LN2 over the powder-like sample and scrape away the excess off sides
+9. Wait for Nitrogen to evaporate 
+10. Place dried samples in a DNA Storage tubes with 1mL of DNA/RNA Shield
+11. Place samples in a spin column
+12. Freeze samples if not extracting
